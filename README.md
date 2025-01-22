@@ -56,7 +56,7 @@ At the end of the course, students will be able to
 6. [TensorFlow :](https://www.tensorflow.org/)
 7. [VisuAlgo :](https://visualgo.net/)
 8. [Algorithm Visualizer :](https://algorithm-visualizer.org/)
-9. [Pathfinding Visualizer :](https://bengavrilov.github.io/Path-Finding-Visualizer/Industry articles)
+9. [Pathfinding Visualizer :](https://bengavrilov.github.io/Path-Finding-Visualizer/Industryarticles)
 10. [Artificial intelligence (AI) algorithms: a complete overview :](https://www.tableau.com/data-insights/ai/algorithms)
 11. [What Is an Algorithm?] (http://bit.ly/3RndUg6)
 12. [Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://bit.ly/4b1Rw31)
