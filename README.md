@@ -1,1 +1,71 @@
-# Design-Analysis-of-Algorithm-Lab
+# Course : Design-Analysis-of-Algorithm-Lab
+| Lab Instructor | Email-id | Lab Index Page | Sample Practical Questions |
+| :-------------:| :--------: | :--------------: | :-------------------: | 
+| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Index Page] | [Sample Practical Questions] |
+
+## Evaluation Scheme 
+
+| No | Rubrics | Marks | Document / Schedule |
+| :--: | ------------------ | :----: |:----------: |
+| 1 | Term Work | 25 Marks | |
+| | a. Experiments | 15 Marks | [Front Page]|
+| | b. Term Work Assessment | 10 Marks |  |
+| 2 | Practical and Oral Examination | 25 Marks |  |
+|   | Total Marks | 50 Marks | |
+
+#### Note :  Term Work Assessment 
+- **Design and implement a Game** of your choice in **C or Java**, utilizing various data structures studied
+- Viva will be conducted based on this Assessment 
+
+## Lab Outcomes (LO's)
+At the end of the course, students will be able to
+1. Analyze the running time and space complexity of algorithms and describe P and NP Algorithms.
+2. Describe, apply, and analyze the complexity of the Divide and Conquer strategy.
+3. Describe, apply, and analyze the complexity of the Greedy strategy.
+4. Describe, apply, and analyze the complexity of the Dynamic Programming strategy.
+5. Explain and apply Backtracking, Branch and Bound.
+6. Explain and apply string-matching techniques.
+
+## Lab Experiments
+| No | Name of Experiment | LO's |
+| :--: | ------------------ | :----: |
+| 1. | Virtual Lab on Sorting Techniques | L01, LO2 |
+|  | a. [Selection Sort](https://ds2-iiith.vlabs.ac.in/exp/selection-sort/index.html) | -"- |
+|  | b. [Bubble Sort](https://ds1-iiith.vlabs.ac.in/exp/bubble-sort/index.html)   | -"- |
+|  | c. [Merge Sort](https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html) | -"-  |
+|  | d. [Heap Sort ](https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)   | -"- |
+|  | e. [Quick Sort](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html) | -"-  | 
+
+## Text Books :
+1. T. H. Cormen, C.E. Leiserson, R. L. Rivest, and C. Stein, “Introduction to algorithms”, 2nd Edition, PHI Publication 2005.
+2. Ellis Horowitz, Sartaj Sahni, S. Rajsekaran. “Fundamentals of computer algorithms',' University Press.
+   
+## Refernces :
+1. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, “Algorithms”, Tata McGraw Hill Edition.
+2. S. K. Basu, “Design Methods and Analysis of Algorithm”, PHI.
+3. J. Kleinberg and E. Tardos, Algorithm Design, Pearson International Edition, 2005.
+
+## Online Resources
+1. [Design and Analysis of Algorithms - NPTEL Course 1](https://nptel.ac.in/courses/106/106/106106131/)
+2. [Design and analysis of algorithms - NPTEL Course 2](https://swayam.gov.in/nd1_noc19_cs47/preview)
+3. [Algorithms Specialization - Coursera Stanford University Course](https://www.coursera.org/specializations/algorithms)
+4. https://www.mooc-list.com/tags/algorithms
+
+## AI Tools
+5. [Algorithmia :](https://algorithmia.com/)
+6. [TensorFlow :](https://www.tensorflow.org/)
+7. [VisuAlgo :](https://visualgo.net/)
+8. [Algorithm Visualizer :](https://algorithm-visualizer.org/)
+9. [Pathfinding Visualizer :](https://bengavrilov.github.io/Path-Finding-Visualizer/Industry articles)
+10. [Artificial intelligence (AI) algorithms: a complete overview :](https://www.tableau.com/data-insights/ai/algorithms)
+11. [What Is an Algorithm?] (http://bit.ly/3RndUg6)
+12. [Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://bit.ly/4b1Rw31)
+13. [Code-Dependent Pros and Cons of the Algorithm Age :](https://pewrsr.ch/3Ro3P2H)
+
+## Case Studies
+14. [A Case Study in Algorithm Analysis](https://ics.uci.edu/~goodrich/teach/cs161/notes/MaxSubarray.pdf)
+15. [An Introduction to the Analysis of Algorithms](https://sedgewick.io/books/analysis-of-algorithms/)
+16. [Parallel MCMC Algorithms: Theoretical Foundations, Algorithm Design, Case Studies](https://ar5iv.org/abs/2209.04750)
+   
+## Acknowledgements
+* This material was prepared as a part of the Course - **Design and Analysis of Algorithms Lab** offered by the  Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to the Second Year Computer Engineering Students durigng the Acdemic Year 2024-25
