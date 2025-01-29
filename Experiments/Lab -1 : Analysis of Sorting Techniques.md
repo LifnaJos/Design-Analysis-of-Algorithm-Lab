@@ -71,6 +71,42 @@ That completes the selection sort for the given array
 ### Insertion Sort Example
 ![Example](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion-Sort-example.jpg)
 
+### Insertion Sort Example
+##### Step 0: Consider the Initial Array, arr[] = {7, 4, 5, 2} 
+Assumption : 
+- First element is sorted. (We have a sorted array of size = 1.
+- Array Indexing in this example starts @ 1
+
+#### Step 1: 1st Iteration
+
+| i | j | key = arr[j] | arr[] | i > 0 and (arr[i] > key) | Shift Required ? | Remark |
+| - | - | ------------ | ----- | ------------------------- | ---------------- | ------------- |
+| 1 |	2 |	4	| [7, 4, 5, 2] | i > 0  and 7 > 4 |	Yes |	Shift [7, 7, 5, 2] & Search location for key |
+| 0 | 2 | 4 | [7, 7, 5, 2] | i = 0 |  No  | arr[i+1] = key ==> [4, 7, 5, 2] |
+
+arr[] = {4, 7, 5, 2} and We got a sorted array of size 2
+
+## Step 2: 2nd Iteration
+
+| i | j | key = arr[j] | arr[] | i > 0 and (arr[i] > key) | Shift Required ? | Remark |
+| - | - | ------------ | ----- | ------------------------- | ---------------- | ------------- |
+| 2 |	3 |	5 |	[4, 7, 5, 2]	| i > 0  and 7 > 5 | Yes |	Shift [4, 7, 7, 2] & Search location for key |
+| 1	| 3	| 5	| [4, 7, 7, 2]	| i > 0  and 4 < 5 | No | arr[i+1] = key ==> [4, 5, 7, 2] |
+
+arr[] = {4, 5, 7, 2} and We got a sorted array of size 3
+
+## Step 3: 3rd Iteration
+
+| i | j | key = arr[j] | arr[] | i > 0 and (arr[i] > key) | Shift Required ? | Remark |
+| - | - | ------------ | ----- | ------------------------- | ---------------- | ------------- |
+| 3	| 4	| 2 |	[4, 5, 7, 2]	| i > 0  and 7 > 2	| Yes |	Shift [4, 5, 7, 7] & Search location for key |
+| 2	| 4	| 2	| [4, 5, 7, 7]	| i > 0  and 5 > 2	| Yes |	Shift [4, 5, 5, 7] & Search location for key |
+| 1	| 4	| 2	| [4, 5, 5, 7]	| i > 0  and 4 > 2	| Yes |	Shift [4, 4, 5, 7] & Search location for key |
+| 0	| 4	| 2	| [4, 4, 7, 7]	| i = 0 | No |	arr[i+1] = key ==> [2, 4, 5, 7] |
+
+arr[] = {2, 4, 5, 7} and We got a sorted array of size 4
+That completes the insertion sort for the given array
+
 # Program : 
 // Attach the Program 
 # Output :
