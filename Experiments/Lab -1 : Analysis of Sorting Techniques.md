@@ -41,7 +41,7 @@ Here, sorted portion is {09,17} and unsorted portion is {25,49,34}
 ## Step 3: 3rd Iteration
 Find the smallest element in the remaining unsorted portion {25, 49, 34} and swap it with the third position.
 
-| i | j | minindex | arr[] | Comparison (arr[i] vs arr[j]) | Swap?	| Updated Array |
+| i | j | minindex | arr[] | Comparison (arr[i] < arr[j]) | Swap?	| Updated Array |
 | - | - | -------- | ----- | ----------------------------- | ---- | ------------- |
 | 2	| 3	| 2 |	[9, 17, 34, 49, 25]	| 34 < 49	| No |	[9, 17, 34, 49, 25] |
 | 2	| 4	| 2	| [9, 17, 34, 49, 25]	| 34 > 25	| Yes |	[9, 17, 25, 49, 34] |
@@ -55,7 +55,7 @@ Here, sorted portion is {09,17,25} and unsorted portion is {49,34}
 ## Step 4: 4th Iteration
 Find the smallest element in the remaining unsorted portion {49, 34} and swap it with the fourth position.
 
-| i | j | minindex | arr[] | Comparison (arr[i] vs arr[j]) | Swap?	| Updated Array |
+| i | j | minindex | arr[] | Comparison (arr[i] < arr[j]) | Swap?	| Updated Array |
 | - | - | -------- | ----- | ----------------------------- | ---- | ------------- |
 | 3	| 4	| 3	| [9, 17, 25, 49, 34]	| 49 > 34	| Yes |	[9, 17, 25, 34, 49] |
 
