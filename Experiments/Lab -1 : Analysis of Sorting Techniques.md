@@ -1,10 +1,10 @@
 # Aim : To Analyze Sorting Techniques
-- [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#selection-sort-algorithm)
-- [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#insertion-sort-algorithm)
+1. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#selection-sort-algorithm)
+2. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#insertion-sort-algorithm)
   
 # Theory : 
 
-### Selection Sort Algorithm
+### 1. Selection Sort Algorithm
 ![Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg)
 
 ### Selection Sort Example
@@ -63,7 +63,7 @@ So, at the end of the 4th iteration, the entire array is sorted in ascending ord
 arr[] = {09, 17, 25, 34, 49}
 That completes the selection sort for the given array
 
-### Insertion Sort Algorithm
+### 2. Insertion Sort Algorithm
 ![Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg)
 
 ### Insertion Sort Example
