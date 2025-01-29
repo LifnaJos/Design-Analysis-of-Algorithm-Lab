@@ -80,3 +80,4 @@ That completes the selection sort for the given array
 
 # Acknowledgment
 * [Selctrion Sort - Shiksha.com](https://www.shiksha.com/online-courses/articles/selection-sort/)
+* [Insertion Sort](https://naemazam.medium.com/insertion-sort-algorithm-in-data-structures-with-example-7129003768ba)
