@@ -8,7 +8,7 @@
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: |:----------: |
 | 1 | Term Work | 25 Marks | |
-| | a. Experiments | 15 Marks | [Front Page]|
+| | a. Experiments | 15 Marks | [Front Page](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/L41_DAALab_FrontPage.pdf)|
 | | b. Term Work Assessment | 10 Marks |  |
 | 2 | Practical and Oral Examination | 25 Marks |  |
 |   | Total Marks | 50 Marks | |
