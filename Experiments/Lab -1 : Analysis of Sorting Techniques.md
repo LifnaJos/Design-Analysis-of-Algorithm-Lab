@@ -22,6 +22,7 @@ Find the smallest element in the entire array and swap it with the first positio
 | 0	| 4	| 4 |	[17, 34, 25, 49, 9]	| 17 > 9	| Yes	| [9, 34, 25, 49, 17] |
 
 arr[] = {09, 34, 25, 49, 17}
+
 The first element, 09 is now in its correct position, and the array is divided into a sorted portion {09} and an unsorted portion {34, 25, 49, 17}.
 
 ## Step 2: 2nd Iteration
@@ -34,6 +35,7 @@ Find the smallest element in the remaining unsorted portion {34, 25, 49, 17} and
 | 1	| 4 |	4	| [9, 34, 25, 49, 17]	| 34 > 17	| Yes	| [9, 17, 25, 49, 34] |
 
 arr[] = {09, 17, 25, 49, 34}
+
 Here, sorted portion is {09,17} and unsorted portion is {25,49,34}
 
 ## Step 3: 3rd Iteration
@@ -47,6 +49,7 @@ Find the smallest element in the remaining unsorted portion {25, 49, 34} and swa
 At the end of this iteration, element 25 is already in its correct position.
 
 arr[] = {09, 17, 25, 49, 34}
+
 Here, sorted portion is {09,17,25} and unsorted portion is {49,34}
 
 ## Step 4: 4th Iteration
@@ -61,6 +64,7 @@ Now, after the 4th iteration, only one element remains 49, which is inherently i
 So, at the end of the 4th iteration, the entire array is sorted in ascending order:
 
 arr[] = {09, 17, 25, 34, 49}
+
 That completes the selection sort for the given array
 
 ==========================================================================
