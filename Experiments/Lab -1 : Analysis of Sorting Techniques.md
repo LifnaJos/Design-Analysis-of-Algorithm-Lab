@@ -54,3 +54,6 @@ So, at the end of the 4th iteration, the entire array is sorted in ascending ord
 
 arr[] = {09, 17, 25, 34, 49}
 That completes the selection sort for the given array
+
+# Acknowledgment
+* [Selctrion Sort - Shiksha.com](https://www.shiksha.com/online-courses/articles/selection-sort/)
