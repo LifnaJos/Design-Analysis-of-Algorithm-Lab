@@ -29,12 +29,17 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
-| 1. | Virtual Lab on Sorting Techniques | L01, LO2 |
+| 0. | Virtual Lab on Sorting Techniques | L01, LO2 |
 |  | a. [Selection Sort](https://ds2-iiith.vlabs.ac.in/exp/selection-sort/index.html) | -"- |
 |  | b. [Bubble Sort](https://ds1-iiith.vlabs.ac.in/exp/bubble-sort/index.html)   | -"- |
 |  | c. [Merge Sort](https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html) | -"-  |
 |  | d. [Heap Sort ](https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)   | -"- |
 |  | e. [Quick Sort](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html) | -"-  | 
+| 1. | Analysing Sorting Techniques | L01, LO2 |
+|  | a. [Selection Sort]() | -"- |
+|  | b. [Insertion Sort]() | -"- |
+
+
 
 ## Text Books :
 1. T. H. Cormen, C.E. Leiserson, R. L. Rivest, and C. Stein, “Introduction to algorithms”, 2nd Edition, PHI Publication 2005.
