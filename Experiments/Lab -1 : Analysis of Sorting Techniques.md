@@ -63,6 +63,8 @@ So, at the end of the 4th iteration, the entire array is sorted in ascending ord
 arr[] = {09, 17, 25, 34, 49}
 That completes the selection sort for the given array
 
+==========================================================================
+
 ### 2. Insertion Sort Algorithm
 ![Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg)
 
