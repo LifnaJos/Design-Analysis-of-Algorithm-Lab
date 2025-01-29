@@ -105,6 +105,7 @@ arr[] = {4, 5, 7, 2} and We got a sorted array of size 3
 | 0	| 4	| 2	| [4, 4, 7, 7]	| i = 0 | No |	arr[i+1] = key ==> [2, 4, 5, 7] |
 
 arr[] = {2, 4, 5, 7} and We got a sorted array of size 4
+
 That completes the insertion sort for the given array
 
 # Program : 
