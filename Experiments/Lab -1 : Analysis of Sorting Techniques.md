@@ -14,7 +14,7 @@ The entire array is currently unsorted. The sorted portion is empty.
 #### Step 1: 1st Iteration
 Find the smallest element in the entire array and swap it with the first position.
 
-| i | j | minindex | arr[] | Comparison (arr[i] vs arr[j]) | Swap?| Updated Array |
+| i | j | minindex | arr[] | Comparison (arr[i] < arr[j]) | Swap?| Updated Array |
 | - | - | -------- | ----- | ----------------------------- | ---- | ------------- |
 | 0 |	1 |	0	| [17, 34, 25, 49, 9]	| 17 < 34 |	No |	[17, 34, 25, 49, 9] |
 | 0	| 2	| 0	| [17, 34, 25, 49, 9]	| 17 < 25	| No | [17, 34, 25, 49, 9] |
@@ -28,13 +28,13 @@ The first element, 09 is now in its correct position, and the array is divided i
 ## Step 2: 2nd Iteration
 Find the smallest element in the remaining unsorted portion {34, 25, 49, 17} and swap it with the second position.
 
-| i | j | minindex | arr[] | Comparison (arr[i] vs arr[j]) | Swap?	| Updated Array |
+| i | j | minindex | arr[] | Comparison (arr[i] < arr[j]) | Swap?	| Updated Array |
 | - | - | -------- | ----- | ----------------------------- | ---- | ------------- |
-| 1 |	2 |	1 |	[9, 34, 25, 49, 17]	| 34 > 25 |	No |	[9, 34, 25, 49, 17] |
-| 1	| 3	| 2	| [9, 34, 25, 49, 17]	| 34 < 49	| No | [9, 34, 25, 49, 17] |
-| 1	| 4 |	4	| [9, 34, 25, 49, 17]	| 34 > 17	| Yes	| [9, 17, 25, 49, 34] |
+| 1 |	2 |	1 |	[9, 34, 25, 49, 17]	| 34 > 25 |	Yes |	[9, 25, 34, 49, 17] |
+| 1	| 3	| 2	| [9, 25, 34, 49, 17]	| 25 < 49	| No | [9, 25, 34, 49, 17] |
+| 1	| 4 |	4	| [9, 25, 34, 49, 17]	| 25 > 17	| Yes	| [9, 17, 34, 49, 25] |
 
-arr[] = {09, 17, 25, 49, 34}
+arr[] = {09, 17, 34, 49, 25}
 
 Here, sorted portion is {09,17} and unsorted portion is {25,49,34}
 
@@ -43,8 +43,8 @@ Find the smallest element in the remaining unsorted portion {25, 49, 34} and swa
 
 | i | j | minindex | arr[] | Comparison (arr[i] vs arr[j]) | Swap?	| Updated Array |
 | - | - | -------- | ----- | ----------------------------- | ---- | ------------- |
-| 2	| 3	| 2 |	[9, 17, 25, 49, 34]	| 25 < 49	| No |	[9, 17, 25, 49, 34] |
-| 2	| 4	| 2	| [9, 17, 25, 49, 34]	| 25 < 34	| No |	[9, 17, 25, 49, 34] |
+| 2	| 3	| 2 |	[9, 17, 34, 49, 25]	| 34 < 49	| No |	[9, 17, 34, 49, 25] |
+| 2	| 4	| 2	| [9, 17, 34, 49, 25]	| 34 > 25	| Yes |	[9, 17, 25, 49, 34] |
 
 At the end of this iteration, element 25 is already in its correct position.
 
