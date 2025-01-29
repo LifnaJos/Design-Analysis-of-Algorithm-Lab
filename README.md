@@ -42,7 +42,7 @@ At the end of the course, students will be able to
 
 
 ## Text Books :
-1. T. H. Cormen, C.E. Leiserson, R. L. Rivest, and C. Stein, “Introduction to algorithms”, 2nd Edition, PHI Publication 2005.
+1. [T. H. Cormen, C.E. Leiserson, R. L. Rivest, and C. Stein, “Introduction to algorithms”, 2nd Edition, PHI Publication 2005.](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf)
 2. Ellis Horowitz, Sartaj Sahni, S. Rajsekaran. “Fundamentals of computer algorithms',' University Press.
    
 ## Refernces :
