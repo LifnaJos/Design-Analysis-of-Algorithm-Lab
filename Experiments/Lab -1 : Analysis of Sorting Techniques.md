@@ -71,13 +71,15 @@ That completes the selection sort for the given array
 ### Insertion Sort Example
 ![Example](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion-Sort-example.jpg)
 
-# Program :
-
+# Program : 
+// Attach the Program 
 # Output :
-
+// Attach the Output
 # Conclusion : 
+* Understood the concept of Selection Sort & Insertion Sort
+* Was able to compute the Time Complexity of both the Sorting techniques based on Frequency Count Method
+* Implemented and tested the complexity of the Sorting techniques.
 
-
-# Acknowledgment
+# Online Resources
 * [Selctrion Sort - Shiksha.com](https://www.shiksha.com/online-courses/articles/selection-sort/)
 * [Insertion Sort](https://naemazam.medium.com/insertion-sort-algorithm-in-data-structures-with-example-7129003768ba)
