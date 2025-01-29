@@ -6,7 +6,8 @@ The entire array is currently unsorted. The sorted portion is empty.
 ## Step 1: 1st Iteration
 Find the smallest element in the entire array and swap it with the first position.
 
-| i | j | minindex | arr[] | Comparison (arr[i] vs arr[j]) | Swap?	| Updated Array |
+| i | j | minindex | arr[] | Comparison (arr[i] vs arr[j]) | Swap?| Updated Array |
+| - | - | -------- | ----- | ----------------------------- | ---- | ------------- |
 | 0 |	1 |	0	| [17, 34, 25, 49, 9]	| 17 < 34 |	No |	[17, 34, 25, 49, 9] |
 | 0	| 2	| 0	| [17, 34, 25, 49, 9]	| 17 < 25	| No | [17, 34, 25, 49, 9] |
 | 0	| 3 | 0 |	[17, 34, 25, 49, 9]	| 17 < 49	| No | [17, 34, 25, 49, 9] |
