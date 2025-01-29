@@ -24,6 +24,7 @@ Find the smallest element in the remaining unsorted portion {34, 25, 49, 17} and
 | 1 |	2 |	1 |	[9, 34, 25, 49, 17]	| 34 > 25 |	No |	[9, 34, 25, 49, 17] |
 | 1	| 3	| 1	| [9, 34, 25, 49, 17]	| 34 < 49	| No | [9, 34, 25, 49, 17] |
 | 1	| 4 |	4	| [9, 34, 25, 49, 17]	| 34 > 17	| Yes	| [9, 17, 25, 49, 34] |
+
 arr[] = {09, 17, 25, 49, 34}
 Here, sorted portion is {09,17} and unsorted portion is {25,49,34}
 
@@ -34,6 +35,7 @@ Find the smallest element in the remaining unsorted portion {25, 49, 34} and swa
 | - | - | -------- | ----- | ----------------------------- | ---- | ------------- |
 | 2	| 3	| 2 |	[9, 17, 25, 49, 34]	| 25 < 49	| No |	[9, 17, 25, 49, 34] |
 | 2	| 4	| 2	| [9, 17, 25, 49, 34]	| 25 < 34	| No |	[9, 17, 25, 49, 34] |
+
 At the end of this iteration, element 25 is already in its correct position.
 
 arr[] = {09, 17, 25, 49, 34}
