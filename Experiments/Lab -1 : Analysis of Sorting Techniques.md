@@ -1,11 +1,17 @@
-## Selection Sort
+# Aim : To Analyze Sorting Techniques
+- Selection Sort
+- Insertion Sort
+  
+# Theory : 
 
+### Selection Sort Algorithm
 ![Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg)
 
-## Step 0: Consider the Initial Array, arr[] = {17, 34, 25, 49, 09} 
+### Selection Sort Example
+##### Step 0: Consider the Initial Array, arr[] = {17, 34, 25, 49, 09} 
 The entire array is currently unsorted. The sorted portion is empty.
 
-## Step 1: 1st Iteration
+#### Step 1: 1st Iteration
 Find the smallest element in the entire array and swap it with the first position.
 
 | i | j | minindex | arr[] | Comparison (arr[i] vs arr[j]) | Swap?| Updated Array |
@@ -56,6 +62,19 @@ So, at the end of the 4th iteration, the entire array is sorted in ascending ord
 
 arr[] = {09, 17, 25, 34, 49}
 That completes the selection sort for the given array
+
+### Insertion Sort Algorithm
+![Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg)
+
+### Insertion Sort Example
+![Example](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion-Sort-example.jpg)
+
+# Program :
+
+# Output :
+
+# Conclusion : 
+
 
 # Acknowledgment
 * [Selctrion Sort - Shiksha.com](https://www.shiksha.com/online-courses/articles/selection-sort/)
