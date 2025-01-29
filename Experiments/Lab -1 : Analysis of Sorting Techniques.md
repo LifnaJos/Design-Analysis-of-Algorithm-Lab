@@ -1,5 +1,5 @@
 # Aim : To Analyze Sorting Techniques
-- Selection Sort
+- [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#selection-sort-algorithm)
 - Insertion Sort
   
 # Theory : 
