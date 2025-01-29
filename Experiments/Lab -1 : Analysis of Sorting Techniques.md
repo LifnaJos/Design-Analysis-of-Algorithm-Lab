@@ -1,4 +1,6 @@
-# Selection Sort
+## Selection Sort
+
+[!Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg)
 
 ## Step 0: Consider the Initial Array, arr[] = {17, 34, 25, 49, 09} 
 The entire array is currently unsorted. The sorted portion is empty.
