@@ -1,6 +1,6 @@
 # Aim : To Analyze Sorting Techniques
 1. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#selection-sort-algorithm)
-2. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#insertion-sort-algorithm)
+2. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#2-insertion-sort-algorithm)
   
 # Theory : 
 
