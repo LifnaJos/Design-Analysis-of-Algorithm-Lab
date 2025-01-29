@@ -36,8 +36,8 @@ At the end of the course, students will be able to
 |  | d. [Heap Sort ](https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)   | -"- |
 |  | e. [Quick Sort](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html) | -"-  | 
 | 1. | Analysing Sorting Techniques | L01, LO2 |
-|  | a. [Selection Sort]() | -"- |
-|  | b. [Insertion Sort]() | -"- |
+|  | a. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg) | -"- |
+|  | b. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg) | -"- |
 
 
 
