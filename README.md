@@ -1,7 +1,7 @@
 # Course : Design-Analysis-of-Algorithm-Lab
-| Lab Instructor | Email-id | Lab Index Page | Sample Practical Questions |
-| :-------------:| :--------: | :--------------: | :-------------------: | 
-| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Index Page] | [Sample Practical Questions] |
+| Lab Instructor | Email-id | Lab Index Page | Sample Practical Questions | Attendance |
+| :-------------:| :--------: | :--------------: | :-------------------: | :----------: |
+| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Index Page] | [Sample Practical Questions] | [Attendance](https://docs.google.com/spreadsheets/d/1qdbspRNGfbzNHzfXXdMmalw6g8hoVQUyvYxTU68-xjA/edit?usp=sharing) |
 
 ## Evaluation Scheme 
 
