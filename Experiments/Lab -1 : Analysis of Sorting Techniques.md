@@ -106,7 +106,7 @@ arr[] = {4, 5, 7, 2} and We got a sorted array of size 3
 | 3	| 4	| 2 |	[4, 5, 7, 2]	| i > 0  and 7 > 2	| Yes |	Shift [4, 5, 7, 7] & Search location for key |
 | 2	| 4	| 2	| [4, 5, 7, 7]	| i > 0  and 5 > 2	| Yes |	Shift [4, 5, 5, 7] & Search location for key |
 | 1	| 4	| 2	| [4, 5, 5, 7]	| i > 0  and 4 > 2	| Yes |	Shift [4, 4, 5, 7] & Search location for key |
-| 0	| 4	| 2	| [4, 4, 7, 7]	| i = 0 | No |	arr[i+1] = key ==> [2, 4, 5, 7] |
+| 0	| 4	| 2	| [4, 4, 5, 7]	| i = 0 | No |	arr[i+1] = key ==> [2, 4, 5, 7] |
 
 arr[] = {2, 4, 5, 7} and We got a sorted array of size 4
 
