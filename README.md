@@ -38,7 +38,7 @@ At the end of the course, students will be able to
 | 1. | [Analysing Sorting Techniques](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20%3A%20Analysis%20of%20Sorting%20Techniques.md) | L01 |
 |  | a. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg) | -"- |
 |  | b. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg) | -"- |
-| 2. | Implement and analyze Merge sort  (Divide & Conquer) | LO2 | 
+| 2. | Implement and analyze [Merge sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-2%3A%20Merge%20Sort)  (Divide & Conquer) | LO2 | 
 | 3. | Implement and analyze Quick sort (Divide & Conquer) | LO2 |
 
 
