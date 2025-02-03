@@ -1,5 +1,5 @@
 # Course : Design and Analysis of Algorithm-Lab (NCMPCL41)
-| Lab Instructor | Email-id | Lab Index Page | Sample Practical Questions | Attendance |
+| Lab Instructor | Email-id | Lab Index Page | Sample Practical Questions | Theory Attendance |
 | :-------------:| :--------: | :--------------: | :-------------------: | :----------: |
 | [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Index Page] | [Sample Practical Questions] | [Attendance](https://docs.google.com/spreadsheets/d/1qdbspRNGfbzNHzfXXdMmalw6g8hoVQUyvYxTU68-xjA/edit?usp=sharing) |
 
