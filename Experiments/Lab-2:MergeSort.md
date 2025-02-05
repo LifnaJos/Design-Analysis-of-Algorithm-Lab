@@ -20,11 +20,25 @@ The Divide-And-Conquer paradigm uses the following strategy to solve problems.
 
 ![Analysis](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/MergeSort-Analysis.jpg)
 
-#Program : 
-// Attach the Program 
-#Output :
+# Program : 
+// Attach the Program written in Java
+- Task - 1 : Write a simple Java program to perform sorting and check the correctness of the code.
+- Task - 2 : Randomize the code to accept the input size from the user and invoke random function to generate numbers in the array.
+- Task - 3 : Track the #Comparisons, #Swaps, #Shifts (Insertion Sort) and also use time function in Java to measure the time taken for sorting
+- Task - 4 : Generate the following table for Analysis
+| Input size, N | #Comparisons | #Swaps | #Shifts (Insertion Sort) | Time taken (ns) |
+| :-------------:| :--------: | :--------------: | :-------------------: | :----------: |
+| 10             |    |   |  |  |
+| 100             |    |   |  |  |
+| 1000             |    |   |  |  |
+| 10000             |    |   |  |  |
+| 100000             |    |   |  |  |
+| 100000             |    |   |  |  |
+
+# Output :
 // Attach the Output
-#Conclusion : 
+
+# Conclusion : 
 * Understood the concept of Divide and Conquer Strategy upon Merge Sort
 * Was able to compute the Time Complexity of both the Sorting techniques based on Frequency Count Method
 * Implemented and tested the complexity of the Merge Sort
