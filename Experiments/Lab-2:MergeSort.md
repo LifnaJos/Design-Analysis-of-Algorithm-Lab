@@ -2,8 +2,7 @@
   
 # Theory : 
 
-###1. Divide & Conquer Strategy
-
+### 1. Divide & Conquer Strategy
 The Divide-And-Conquer paradigm uses the following strategy to solve problems.
 • Break the problem into subproblems
 • Solve the subproblems (recursively)
@@ -14,6 +13,7 @@ The Divide-And-Conquer paradigm uses the following strategy to solve problems.
 ![Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Merge-Sort-Algo.png)
 
 ###3. Merge Sort Example
+
 ![Example](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Merge-Sort-example.png)
 
 #Program : 
