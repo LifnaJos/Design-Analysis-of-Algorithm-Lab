@@ -16,6 +16,9 @@ The Divide-And-Conquer paradigm uses the following strategy to solve problems.
 
 ![Example](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Merge-Sort-example.png)
 
+###4. Merge Sort Analysis
+![Analysis](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/MergeSort-Analysis.jpg)
+
 #Program : 
 // Attach the Program 
 #Output :
