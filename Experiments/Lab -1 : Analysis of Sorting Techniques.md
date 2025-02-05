@@ -112,8 +112,20 @@ arr[] = {2, 4, 5, 7} and We got a sorted array of size 4
 
 That completes the insertion sort for the given array
 
-# Program : 
-// Attach the Program 
+// Attach the Program written in Java
+- Task - 1 : Write a simple Java program to perform sorting and check the correctness of the code.
+- Task - 2 : Randomize the code to accept the input size from the user and invoke random function to generate numbers in the array.
+- Task - 3 : Track the #Comparisons, #Swaps, #Shifts (Insertion Sort) and also use time function in Java to measure the time taken for sorting
+- Task - 4 : Generate the following table for Analysis
+| Input size, N | #Comparisons | #Swaps | #Shifts (Insertion Sort) | Time taken (ns) |
+| :-------------:| :--------: | :--------------: | :-------------------: | :----------: |
+| 10             |    |   |  |  |
+| 100             |    |   |  |  |
+| 1000             |    |   |  |  |
+| 10000             |    |   |  |  |
+| 100000             |    |   |  |  |
+| 100000             |    |   |  |  |
+
 # Output :
 // Attach the Output
 # Conclusion : 
