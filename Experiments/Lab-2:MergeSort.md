@@ -46,5 +46,5 @@ The Divide-And-Conquer paradigm uses the following strategy to solve problems.
 * Was able to compute the Time Complexity of both the Sorting techniques based on Frequency Count Method
 * Implemented and tested the complexity of the Merge Sort
 
-#Online Resources
+# Online Resources
 * [Merge Sort](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Lectures/CS161Lecture02.pdf)
