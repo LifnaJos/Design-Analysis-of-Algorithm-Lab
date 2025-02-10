@@ -138,5 +138,5 @@ That completes the insertion sort for the given array
 * Implemented and tested the complexity of the Sorting techniques.
 
 # Online Resources
-* [Selctrion Sort - Shiksha.com](https://www.shiksha.com/online-courses/articles/selection-sort/)
+* [Selection Sort - Shiksha.com](https://www.shiksha.com/online-courses/articles/selection-sort/)
 * [Insertion Sort](https://naemazam.medium.com/insertion-sort-algorithm-in-data-structures-with-example-7129003768ba)
