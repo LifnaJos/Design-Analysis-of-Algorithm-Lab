@@ -15,11 +15,13 @@ Given an array A of n numbers
 - Step - 3 : Rearrange A into [A<, x, A>].
 - Step - 4 : Recurse on A<, A>.
 
-![Algorithm]()
+![Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Screenshot%20from%202025-02-10%2020-05-08.png)
 
 ### 3. Quick Sort Example
 
-![Example]()
+![Example-0](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/partitionA.png)
+
+![Example-1](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/partitionB.png)
 
 ### 4. Quick Sort Analysis
 
