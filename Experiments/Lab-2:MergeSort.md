@@ -4,9 +4,9 @@
 
 ### 1. Divide & Conquer Strategy
 The Divide-And-Conquer paradigm uses the following strategy to solve problems.
-• Break the problem into subproblems
-• Solve the subproblems (recursively)
-• Combine results of the subproblems
+- Step - 1 : Break the problem into subproblems
+- Step - 2 : Solve the subproblems (recursively)
+- Step - 3 : Combine results of the subproblems
 
 ### 2. Merge Sort Algorithm
 
