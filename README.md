@@ -39,7 +39,7 @@ At the end of the course, students will be able to
 |  | a. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg) | -"- |
 |  | b. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg) | -"- |
 | 2. | [Implement and analyze Merge sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-2%3AMergeSort.md)  (Divide & Conquer) | LO2 | 
-| 3. | Implement and analyze Quick sort (Divide & Conquer) | LO2 |
+| 3. | [Implement and analyze Quick sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-3:QuickSort.md) (Divide & Conquer) | LO2 |
 
 
 
