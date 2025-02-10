@@ -128,7 +128,7 @@ That completes the insertion sort for the given array
 | 100000             |    |   |  |  |
 
 
-- Task - 5 : Plot the graph based on the populated table generated
+- Task - 5 : Plot the graph with N on the X-axis and T(n) on the Y-axis
 
 # Output :
 // Attach the Output
