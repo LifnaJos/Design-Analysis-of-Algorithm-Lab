@@ -8,15 +8,15 @@ The Divide-And-Conquer paradigm uses the following strategy to solve problems.
 • Solve the subproblems (recursively)
 • Combine results of the subproblems
 
-###2. Merge Sort Algorithm
+### 2. Merge Sort Algorithm
 
 ![Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Merge-Sort-Algo.png)
 
-###3. Merge Sort Example
+### 3. Merge Sort Example
 
 ![Example](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Merge-Sort-example.png)
 
-###4. Merge Sort Analysis
+### 4. Merge Sort Analysis
 
 ![Analysis](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/MergeSort-Analysis.jpg)
 
