@@ -90,7 +90,7 @@ Assumption :
 
 arr[] = {4, 7, 5, 2} and We got a sorted array of size 2
 
-## Step 2: 2nd Iteration
+#### Step 2: 2nd Iteration
 
 | i | j | key = arr[j] | arr[] | i > 0 and (arr[i] > key) | Shift Required ? | Remark |
 | - | - | ------------ | ----- | ------------------------- | ---------------- | ------------- |
@@ -99,7 +99,7 @@ arr[] = {4, 7, 5, 2} and We got a sorted array of size 2
 
 arr[] = {4, 5, 7, 2} and We got a sorted array of size 3
 
-## Step 3: 3rd Iteration
+#### Step 3: 3rd Iteration
 
 | i | j | key = arr[j] | arr[] | i > 0 and (arr[i] > key) | Shift Required ? | Remark |
 | - | - | ------------ | ----- | ------------------------- | ---------------- | ------------- |
@@ -111,6 +111,8 @@ arr[] = {4, 5, 7, 2} and We got a sorted array of size 3
 arr[] = {2, 4, 5, 7} and We got a sorted array of size 4
 
 That completes the insertion sort for the given array
+
+## Program
 
 // Attach the Program written in Java
 - Task - 1 : Write a simple Java program to perform sorting and check the correctness of the code.
