@@ -25,7 +25,7 @@ arr[] = {09, 34, 25, 49, 17}
 
 The first element, 09 is now in its correct position, and the array is divided into a sorted portion {09} and an unsorted portion {34, 25, 49, 17}.
 
-## Step 2: 2nd Iteration
+#### Step 2: 2nd Iteration
 Find the smallest element in the remaining unsorted portion {34, 25, 49, 17} and swap it with the second position.
 
 | i | j | minindex | arr[] | Comparison (arr[i] < arr[j]) | Swap?	| Updated Array |
@@ -38,7 +38,7 @@ arr[] = {09, 17, 34, 49, 25}
 
 Here, sorted portion is {09,17} and unsorted portion is {25,49,34}
 
-## Step 3: 3rd Iteration
+#### Step 3: 3rd Iteration
 Find the smallest element in the remaining unsorted portion {25, 49, 34} and swap it with the third position.
 
 | i | j | minindex | arr[] | Comparison (arr[i] < arr[j]) | Swap?	| Updated Array |
@@ -52,7 +52,7 @@ arr[] = {09, 17, 25, 49, 34}
 
 Here, sorted portion is {09,17,25} and unsorted portion is {49,34}
 
-## Step 4: 4th Iteration
+#### Step 4: 4th Iteration
 Find the smallest element in the remaining unsorted portion {49, 34} and swap it with the fourth position.
 
 | i | j | minindex | arr[] | Comparison (arr[i] < arr[j]) | Swap?	| Updated Array |
