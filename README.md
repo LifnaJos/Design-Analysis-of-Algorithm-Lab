@@ -29,7 +29,7 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
-| 0. | Virtual Lab on Sorting Techniques | L01, LO2 |
+| CA - 1 | Virtual Lab on Sorting Techniques | L01, LO2 |
 |  | a. [Selection Sort](https://ds2-iiith.vlabs.ac.in/exp/selection-sort/index.html) | -"- |
 |  | b. [Bubble Sort](https://ds1-iiith.vlabs.ac.in/exp/bubble-sort/index.html)   | -"- |
 |  | c. [Merge Sort](https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html) | -"-  |
@@ -40,6 +40,7 @@ At the end of the course, students will be able to
 |  | b. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg) | -"- |
 | 2. | [Implement and analyze Merge sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-2%3AMergeSort.md)  (Divide & Conquer) | LO2 | 
 | 3. | [Implement and analyze Quick sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-3:QuickSort.md) (Divide & Conquer) | LO2 |
+| 4. | [Implement and analyze Fractional Knapsack Problem]() (Greedy Method) | LO3 |
 
 
 
