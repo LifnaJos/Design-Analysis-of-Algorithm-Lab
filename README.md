@@ -27,20 +27,20 @@ At the end of the course, students will be able to
 6. Explain and apply string-matching techniques.
 
 ## Lab Experiments
-| No | Name of Experiment | LO's |
-| :--: | ------------------ | :----: |
-| CA - 1 | Virtual Lab on Sorting Techniques | L01, LO2 |
-|  | a. [Selection Sort](https://ds2-iiith.vlabs.ac.in/exp/selection-sort/index.html) | -"- |
-|  | b. [Bubble Sort](https://ds1-iiith.vlabs.ac.in/exp/bubble-sort/index.html)   | -"- |
-|  | c. [Merge Sort](https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html) | -"-  |
-|  | d. [Heap Sort ](https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)   | -"- |
-|  | e. [Quick Sort](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html) | -"-  | 
-| 1. | [Analysing Sorting Techniques](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20%3A%20Analysis%20of%20Sorting%20Techniques.md) | L01 |
-|  | a. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg) | -"- |
-|  | b. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg) | -"- |
-| 2. | [Implement and analyze Merge sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-2%3AMergeSort.md)  (Divide & Conquer) | LO2 | 
-| 3. | [Implement and analyze Quick sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-3:QuickSort.md) (Divide & Conquer) | LO2 |
-| 4. | [Implement and analyze Fractional Knapsack Problem]() (Greedy Method) | LO3 |
+| No | Name of Experiment | LO's | Date of Preparation | Date of Submission |  
+| :--: | ------------------ | :----: | :-----------------: | :------------------:|
+| CA - 1 | Virtual Lab on Sorting Techniques | L01, LO2 | | |
+|  | a. [Selection Sort](https://ds2-iiith.vlabs.ac.in/exp/selection-sort/index.html) | -"- | | |
+|  | b. [Bubble Sort](https://ds1-iiith.vlabs.ac.in/exp/bubble-sort/index.html)   | -"- | | |
+|  | c. [Merge Sort](https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html) | -"-  | | |
+|  | d. [Heap Sort ](https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)   | -"- | | |
+|  | e. [Quick Sort](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html) | -"-  |  | |
+| 1. | [Analysing Sorting Techniques](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20%3A%20Analysis%20of%20Sorting%20Techniques.md) | L01 | | |
+|  | a. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg) | -"- | | |
+|  | b. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg) | -"- | | |
+| 2. | [Implement and analyze Merge sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-2%3AMergeSort.md)  (Divide & Conquer) | LO2 |  | |
+| 3. | [Implement and analyze Quick sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-3:QuickSort.md) (Divide & Conquer) | LO2 | | |
+| 4. | [Implement and analyze Fractional Knapsack Problem]() (Greedy Method) | LO3 | 4th week of Feb. 2025 | 1st week of Mar. 2025|
 
 
 
