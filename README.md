@@ -40,7 +40,7 @@ At the end of the course, students will be able to
 |  | b. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg) | -"- | | |
 | 2. | [Implement and analyze Merge sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-2%3AMergeSort.md)  (Divide & Conquer) | LO2 |  | |
 | 3. | [Implement and analyze Quick sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-3:QuickSort.md) (Divide & Conquer) | LO2 | | |
-| 4. | [Implement and analyze Fractional Knapsack Problem]() (Greedy Method) | LO3 | 4th week of Feb. 2025 | 1st week of Mar. 2025|
+| 4. | [Implement and analyze Fractional Knapsack Problem](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-4%3AKanpsack.md) (Greedy Method) | LO3 | 4th week of Feb. 2025 | 1st week of Mar. 2025|
 
 
 
