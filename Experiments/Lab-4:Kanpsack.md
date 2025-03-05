@@ -22,9 +22,9 @@
 5. Stop when the knapsack is full.
 
 ### 3. Fractional Knapsack Analysis
-* Sorting the items: O(nlog⁡n)O(nlogn) (since sorting takes log time)
-* Iterating through items: O(n)O(n) (one scan of the items)
-* Overall complexity: O(nlog⁡n)O(nlogn)
+* Sorting the items: O(nlog⁡n) (since sorting takes log time)
+* Iterating through items: O(n) (one scan of the items)
+* Overall complexity: O(nlog⁡n)
 
 # Program : 
 // Attach the Program written in Java
