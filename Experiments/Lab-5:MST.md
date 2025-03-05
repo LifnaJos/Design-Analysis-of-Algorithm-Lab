@@ -31,7 +31,13 @@
  - Greedy Choice Property: At every step, pick the minimum-weight edge without forming a cycle.
  - Optimal Substructure Property: The MST for the entire graph builds upon the MSTs of its subgraphs.
 
-### 3. Minimum cost spanning tree using Kruskal algorithm Analysis
+### 4. Disjoint Set Data Structure 
+- What is a disjoint set?
+- Operations and Applications of Disjoint Sets
+- Explain each operation with an example diagram.
+- With an example demonstrate MST Implementation of Kruskal's Algorithm using Disjoint Sets
+
+### 5. Minimum cost spanning tree using Kruskal algorithm Analysis
 ![Analysis](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/MST-K-Analysis.png)
 
 # Program : 
