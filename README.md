@@ -44,8 +44,8 @@ At the end of the course, students will be able to
 | 4. | [Implement and analyze Fractional Knapsack Problem](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-4%3AKanpsack.md) (Greedy Method) | LO3 | 4th week of Feb. 2025 | 1st week of Mar. 2025|
 | 5. | [Implement and analyze Minimum cost spanning tree using Kruskal algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-5%3AMST.md) (Greedy Method) | LO3 | 1st week of Mar. 2025 | 2nd week of Mar. 2025 |
 | 9. | Implement String Matching Algorithms | LO6 | 3rd week of Mar. 2025 | 4th week of Mar. 2025 |
-|    | a. Rabin Karp |  -"- | | |
-|    | b. Knuth-Morris-Pratt algorithm |  -"- | | |
+|    | a. Rabin Karp |  -"- | -"- |  -"- |
+|    | b. Knuth-Morris-Pratt algorithm |  -"- | -"- |  -"- |
 | 10. | [Write a case study on Complexity Classes:](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-10%3ACaseStudy.md) P, NP, NP-Hard, NP-Complete | LO1 |  4th week of Feb. 2025 | 1st week of Mar. 2025|
 
 
