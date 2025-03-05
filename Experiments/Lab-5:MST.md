@@ -11,20 +11,27 @@
   
   -- **Optimal Substructure** : A problem has an optimal substructure if an optimal solution to the problem contains optimal solutions to its subproblems.
 
-### 2. Fractional Knapsack Problem & Solution
-![Problem](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/f1.png)
+### 2. Minimum cost spanning tree using Kruskal algorithm
+- What is a Minimum Spanning Tree?
+- Properties of Minimum Spanning Tree
+- Applications of Minimum Spannning Tree
+- Difference between Kruskals Algorithm and Prims Algorithm to construct a Minimum Spanning Tree
+  
+![Example](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/MST-K.png)
 
 **Algorithm**
-1. Sort items in descending order based on their value/weight ratio.
-2. Iterate through the sorted items, adding as much as possible to the knapsack:
-   * If the item fits completely, take the whole item.
-   * If the item does not fit completely, take a fraction of it.
-5. Stop when the knapsack is full.
+1. Sort all the edges in non-decreasing order of their weight.
+2. Pick the smallest edge. Check if it forms a cycle with the spanning tree formed so far.
+    ○ If the cycle is not formed, include this edge. 
+    ○ Else, discard it. 
+3. Repeat step#2 until there are (V-1) edges in the spanning tree.
+ 
+ **Note :**
+ - Greedy Choice Property: At every step, pick the minimum-weight edge without forming a cycle.
+ - Optimal Substructure Property: The MST for the entire graph builds upon the MSTs of its subgraphs.
 
-### 3. Fractional Knapsack Analysis
-* Sorting the items: O(nlog⁡n)O(nlogn) (since sorting takes log time)
-* Iterating through items: O(n)O(n) (one scan of the items)
-* Overall complexity: O(nlog⁡n)O(nlogn)
+### 3. Minimum cost spanning tree using Kruskal algorithm Analysis
+![Analysis](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/MST-K-Analysis.png)
 
 # Program : 
 // Attach the Program written in Java
@@ -34,9 +41,8 @@
 
 # Conclusion : 
 * Understood the concept of Greedy Method.
-* Understood Fractional Knapsack Problem and how to apply Greedy Method to solve the problem.
-* Understood how to compute the Time Complexity for Fractrional Knapsack Problem Algorithm
+* Understood construct Mininum Spanning Tree using Kruskals Algorithm and how Greedy Method is applied.
+* Understood how to compute the Time Complexity for Mininum Spanning Tree using Kruskals Algorithm
   
 # Online Resources
-* [Fractional Knapsack Problem](https://www.hello-algo.com/en/chapter_greedy/fractional_knapsack_problem/)
-* [0/1 Knapsack Simulation](https://augustineaykara.github.io/Knapsack-Calculator/)
+* [Mininum Spanning Tree using Kruskals Algorithm]()
