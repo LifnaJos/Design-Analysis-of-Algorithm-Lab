@@ -11,12 +11,13 @@
   
   -- **Optimal Substructure** : A problem has an optimal substructure if an optimal solution to the problem contains optimal solutions to its subproblems.
 
-### 2. Minimum cost spanning tree using Kruskal algorithm
+### 2. Minimum cost spanning tree 
 - What is a Minimum Spanning Tree?
 - Properties of Minimum Spanning Tree
 - Applications of Minimum Spannning Tree
 - Difference between Kruskals Algorithm and Prims Algorithm to construct a Minimum Spanning Tree
-  
+
+### 3. Minimum cost spanning tree using Kruskal algorithm
 ![Example](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/MST-K.png)
 
 **Algorithm**
@@ -45,4 +46,5 @@
 * Understood how to compute the Time Complexity for Mininum Spanning Tree using Kruskals Algorithm
   
 # Online Resources
-* [Mininum Spanning Tree using Kruskals Algorithm]()
+* [Mininum Spanning Tree using Kruskals Algorithm Animation](https://en.wikipedia.org/wiki/Disjoint-set_data_structure#/media/File:UnionFindKruskalDemo.gif)
+* [MST using Kruskals Algorithm Visualization](https://www.cs.usfca.edu/~galles/visualization/Kruskal.html)
