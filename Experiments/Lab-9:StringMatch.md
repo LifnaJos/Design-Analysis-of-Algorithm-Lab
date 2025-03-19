@@ -7,14 +7,22 @@
  1. String Matching 
  2. Applications of String Matching 
  3. Rabin Karp Algorithm
+    
     a. Algorithm
+
     b. Example
+
     c. Complexity Analysis
-4. Knuth Morris Pratt Algorithm
-    a. Algorithm of KMP
+5. Knuth Morris Pratt Algorithm
+
+   a. Algorithm of KMP
+
     b. Algorithm to compute LPS Array
+
     c. Example to compute LPS Array
+
     d. Simulation of KMP Algorithm
+
     e. Complexity Analysis
 
 # Program : 
