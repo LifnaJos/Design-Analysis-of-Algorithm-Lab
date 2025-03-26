@@ -46,7 +46,7 @@ At the end of the course, students will be able to
 | 6 | Implement and analyze Longest common subsequence (Dynamic Programming) | LO4 | 4th week of Mar. 2025 | 1st week of Apr. 2025 | 
 | 7 | Implement and analyze N-queen problem (Backtracking) | LO5 | 1st week of Apr. 2025 | 2nd week od Apr. 2025 |
 | 8 | Implement and analyze 15 Puzzle Problem (Branch and Bound) | LO5 | 2nd week od Apr. 2025 | 3rd week od Apr. 2025 |
-| 9. | Implement String Matching Algorithms | LO6 | 3rd week of Mar. 2025 | 4th week of Mar. 2025 |
+| 9. | [Implement String Matching Algorithms](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-9%3AStringMatch.md) | LO6 | 3rd week of Mar. 2025 | 4th week of Mar. 2025 |
 |    | a. Rabin Karp |  -"- | -"- |  -"- |
 |    | b. Knuth-Morris-Pratt algorithm |  -"- | -"- |  -"- |
 | 10. | [Write a case study on Complexity Classes:](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-10%3ACaseStudy.md) P, NP, NP-Hard, NP-Complete | LO1 |  4th week of Feb. 2025 | 1st week of Mar. 2025|
