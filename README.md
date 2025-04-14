@@ -11,6 +11,7 @@
 | | a. Experiments | 15 Marks | [Front Page](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/L41_DAALab_FrontPage.pdf)|
 | | b. Term Work Assessment | 10 Marks |  |
 | |    [Assignment - 1](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/DAA-Assignment-1-(2024-25).pdf) | | 28th Feb. to 10th Mar. 2025 |
+| |    [Assignment - 2](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/DAA-Assignment-2-(2024-25).pdf) | | 4th Apr. to 17th Apr. 2025 |
 | 2 | Practical and Oral Examination | 25 Marks |  |
 |   | Total Marks | 50 Marks | |
 
