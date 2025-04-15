@@ -31,13 +31,6 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's | Date of Preparation | Date of Submission |  
 | :--: | ------------------ | :----: | :-----------------: | :------------------:|
-| CA - 1 | HackerRank Programming | L01, LO2 | 7th March 2025 | 25th March 2025 |
-| CA - 2 | Virtual Lab on Sorting Techniques | L01, LO2 | 29th Jan 2025 | 1st April 2025 |
-|  | a. [Selection Sort](https://ds2-iiith.vlabs.ac.in/exp/selection-sort/index.html) | -"- | | |
-|  | b. [Bubble Sort](https://ds1-iiith.vlabs.ac.in/exp/bubble-sort/index.html)   | -"- | | |
-|  | c. [Merge Sort](https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html) | -"-  | | |
-|  | d. [Heap Sort ](https://ds1-iiith.vlabs.ac.in/exp/heap-sort/index.html)   | -"- | | |
-|  | e. [Quick Sort](https://ds1-iiith.vlabs.ac.in/exp/quick-sort/index.html) | -"-  |  | |
 | 1. | [Analysing Sorting Techniques](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20%3A%20Analysis%20of%20Sorting%20Techniques.md) | L01 | | |
 |  | a. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg) | -"- | | |
 |  | b. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg) | -"- | | |
