@@ -45,8 +45,8 @@ At the end of the course, students will be able to
 | 4. | [Implement and analyze Fractional Knapsack Problem](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-4%3AKnapsack.md) (Greedy Method) | LO3 | 4th week of Feb. 2025 | 1st week of Mar. 2025|
 | 5. | [Implement and analyze Minimum cost spanning tree using Kruskal algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-5%3AMST.md) (Greedy Method) | LO3 | 1st week of Mar. 2025 | 2nd week of Mar. 2025 |
 | 6 | [Implement and analyze Longest common subsequence](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-6%3ALCS.md) (Dynamic Programming) | LO4 | 4th week of Mar. 2025 | 1st week of Apr. 2025 | 
-| 7 | Implement and analyze N-queen problem (Backtracking) | LO5 | 1st week of Apr. 2025 | 2nd week od Apr. 2025 |
-| 8 | Implement and analyze 15 Puzzle Problem (Branch and Bound) | LO5 | 2nd week od Apr. 2025 | 3rd week od Apr. 2025 |
+| 7 | [Implement and analyze N-queen problem](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-7-Backtrack-NQueens.md) (Backtracking) | LO5 | 1st week of Apr. 2025 | 2nd week od Apr. 2025 |
+| 8 | [Implement and analyze 15 Puzzle Problem](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-8-BB-15-Puzzle.md) (Branch and Bound) | LO5 | 2nd week od Apr. 2025 | 3rd week od Apr. 2025 |
 | 9. | [Implement String Matching Algorithms](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-9%3AStringMatch.md) | LO6 | 3rd week of Mar. 2025 | 4th week of Mar. 2025 |
 |    | a. Rabin Karp |  -"- | -"- |  -"- |
 |    | b. Knuth-Morris-Pratt algorithm |  -"- | -"- |  -"- |
