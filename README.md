@@ -31,7 +31,8 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's | Date of Preparation | Date of Submission |  
 | :--: | ------------------ | :----: | :-----------------: | :------------------:|
-| CA - 1 | Virtual Lab on Sorting Techniques | L01, LO2 | | |
+| CA - 1 | HackerRank Programming | L01, LO2 | 7th March 2025 | 25th March 2025 |
+| CA - 2 | Virtual Lab on Sorting Techniques | L01, LO2 | 29th Jan 2025 | 1st April 2025 |
 |  | a. [Selection Sort](https://ds2-iiith.vlabs.ac.in/exp/selection-sort/index.html) | -"- | | |
 |  | b. [Bubble Sort](https://ds1-iiith.vlabs.ac.in/exp/bubble-sort/index.html)   | -"- | | |
 |  | c. [Merge Sort](https://ds1-iiith.vlabs.ac.in/exp/merge-sort/index.html) | -"-  | | |
