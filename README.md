@@ -1,14 +1,14 @@
 # Course : Design and Analysis of Algorithm Lab (NCMPCL41)
-| Lab Instructor | Email-id | Lab Index Page | Sample Practical Questions | Theory Attendance | Syllabus |
-| :-------------:| :--------: | :--------------: | :-------------------: | :----------: | :----------: |
-| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Index Page](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/DAA-IndexPage(2024-25).pdf) | [Sample Practical Questions] | [Attendance](https://docs.google.com/spreadsheets/d/1qdbspRNGfbzNHzfXXdMmalw6g8hoVQUyvYxTU68-xjA/edit?usp=sharing) | [Theory & Lab Syllabus](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/DAA-Theory-Lab.pdf) |
+| Lab Instructor | Email-id | Sample Practical Questions | Theory Attendance | Syllabus |
+| :-------------:| :--------: | :-------------------: | :----------: | :----------: |
+| [Lifna C S](https://www.linkedin.com/in/lifna-c-s-94015678/) | lifna.cs@ves.ac.in | [Sample Practical Questions] | [Attendance](https://docs.google.com/spreadsheets/d/1qdbspRNGfbzNHzfXXdMmalw6g8hoVQUyvYxTU68-xjA/edit?usp=sharing) | [Theory & Lab Syllabus](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/DAA-Theory-Lab.pdf) |
 
 ## Evaluation Scheme 
 
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: |:----------: |
 | 1 | Term Work | 25 Marks | |
-| | a. Experiments | 15 Marks | [Front Page](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/L41_DAALab_FrontPage.pdf)|
+| | a. Experiments | 15 Marks | [Front Page](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/L41_DAALab_FrontPage.pdf),  [Index Page](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/DAA-IndexPage(2024-25).pdf) |
 | | b. Term Work Assessment | 10 Marks |  |
 | |    [Assignment - 1](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/DAA-Assignment-1-(2024-25).pdf) | | 28th Feb. to 10th Mar. 2025 |
 | |    [Assignment - 2](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/DAA-Assignment-2-(2024-25).pdf) | | 4th Apr. to 17th Apr. 2025 |
