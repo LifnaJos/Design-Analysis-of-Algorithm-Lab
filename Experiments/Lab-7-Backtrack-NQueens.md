@@ -2,9 +2,12 @@
   
 # Theory : 
  1. Backtracking Design Strategy
- 2. Explain N Queens Problem     
-    a. Algorithm
+ 2. Explain N Queens Problem
+    
+    a. Backtracking Strategy to solve N-Queens Problem
+    
     b. 4 Queens Problem Solution
+    
     c. Complexity Analysis
 # Program : 
 // Attach the Programs written in Java
