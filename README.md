@@ -27,11 +27,11 @@ At the end of the course, students will be able to
 ## Lab Experiments
 | No | Name of Experiment | LO's | Date of Preparation | Date of Submission |  
 | :--: | ------------------ | :----: | :-----------------: | :------------------:|
-| 1. | [Analysing Sorting Techniques](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20%3A%20Analysis%20of%20Sorting%20Techniques.md) | L01 | | |
+| 1. | [Analysing Sorting Techniques](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20%3A%20Analysis%20of%20Sorting%20Techniques.md) | L01 | 1st week of Feb 2025 | 2nd week of Feb0 2025 |
 |  | a. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg) | -"- | | |
 |  | b. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Insertion_Sort-0.jpg) | -"- | | |
-| 2. | [Implement and analyze Merge sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-2%3AMergeSort.md)  (Divide & Conquer) | LO2 |  | |
-| 3. | [Implement and analyze Quick sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-3:QuickSort.md) (Divide & Conquer) | LO2 | | |
+| 2. | [Implement and analyze Merge sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-2%3AMergeSort.md)  (Divide & Conquer) | LO2 | 2nd week of Feb0 2025 | 3rd week of Feb 2025 |
+| 3. | [Implement and analyze Quick sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-3:QuickSort.md) (Divide & Conquer) | LO2 | 3rd week of Feb 2025 | 4th week of Feb. 2025 |
 | 4. | [Implement and analyze Fractional Knapsack Problem](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-4%3AKnapsack.md) (Greedy Method) | LO3 | 4th week of Feb. 2025 | 1st week of Mar. 2025|
 | 5. | [Implement and analyze Minimum cost spanning tree using Kruskal algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-5%3AMST.md) (Greedy Method) | LO3 | 1st week of Mar. 2025 | 2nd week of Mar. 2025 |
 | 6 | [Implement and analyze Longest common subsequence](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab-6%3ALCS.md) (Dynamic Programming) | LO4 | 4th week of Mar. 2025 | 1st week of Apr. 2025 | 
