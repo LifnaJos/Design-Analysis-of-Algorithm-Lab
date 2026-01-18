@@ -9,3 +9,4 @@
 * Understood the concept of Complexty Classes
   
 # Online Resources
+* [Refer DAA Module - 1: slides 124-135](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Theory/blob/main/M1_DAA-2024-25.pdf)
