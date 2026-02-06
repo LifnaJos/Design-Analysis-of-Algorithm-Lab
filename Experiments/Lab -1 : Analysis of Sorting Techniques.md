@@ -1,8 +1,9 @@
-# Aim : To Analyze Sorting Techniques
+# Lab -1 : Analysis of Sorting Techniques
+## Aim : To Analyze Sorting Techniques
 1. [Selection Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#selection-sort-algorithm)
 2. [Insertion Sort](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/Lab%20-1%20:%20Analysis%20of%20Sorting%20Techniques.md#2-insertion-sort-algorithm)
   
-# Theory : 
+## Theory : 
 
 ### 1. Selection Sort Algorithm
 ![Algorithm](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/selection-sort.jpg)
@@ -132,13 +133,13 @@ That completes the insertion sort for the given array
 
 - Task - 5 : Plot the graph with N on the X-axis and T(n) on the Y-axis
 
-# Output :
+## Output :
 // Attach the Output
 # Conclusion : 
 * Understood the concept of Selection Sort & Insertion Sort
 * Was able to compute the Time Complexity of both the Sorting techniques based on Frequency Count Method
 * Implemented and tested the complexity of the Sorting techniques.
 
-# Online Resources
+## Online Resources
 * [Selection Sort - Shiksha.com](https://www.shiksha.com/online-courses/articles/selection-sort/)
 * [Insertion Sort](https://naemazam.medium.com/insertion-sort-algorithm-in-data-structures-with-example-7129003768ba)
