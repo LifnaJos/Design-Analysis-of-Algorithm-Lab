@@ -1,6 +1,7 @@
-# Aim : Implement and analyze Merge sort  (Divide & Conquer)
+# Lab-2: Merge Sort
+## Aim : Implement and analyze Merge sort  (Divide & Conquer)
   
-# Theory : 
+## Theory : 
 
 ### 1. Divide & Conquer Strategy
 The Divide-And-Conquer paradigm uses the following strategy to solve problems.
@@ -20,7 +21,7 @@ The Divide-And-Conquer paradigm uses the following strategy to solve problems.
 
 ![Analysis](https://github.com/LifnaJos/Design-Analysis-of-Algorithm-Lab/blob/main/Experiments/MergeSort-Analysis.jpg)
 
-# Program : 
+## Program : 
 // Attach the Program written in Java
 - Task - 1 : Write a simple Java program to perform sorting and check the correctness of the code.
 - Task - 2 : Randomize the code to accept the input size from the user and invoke random function to generate numbers in the array.
@@ -38,13 +39,13 @@ The Divide-And-Conquer paradigm uses the following strategy to solve problems.
 
 - Task - 5 : Plot the graph with N on the X-axis and T(n) on the Y-axis
   
-# Output :
+## Output :
 // Attach the Output
 
-# Conclusion : 
+## Conclusion : 
 * Understood the concept of Divide and Conquer Strategy upon Merge Sort
 * Was able to compute the Time Complexity of both the Sorting techniques based on Frequency Count Method
 * Implemented and tested the complexity of the Merge Sort
 
-# Online Resources
+## Online Resources
 * [Merge Sort](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/Lectures/CS161Lecture02.pdf)
