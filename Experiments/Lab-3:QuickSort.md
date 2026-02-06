@@ -1,6 +1,6 @@
-# Aim : Implement and analyze Quick sort  (Divide & Conquer)
+## Aim : Implement and analyze Quick sort  (Divide & Conquer)
   
-# Theory : 
+## Theory : 
 
 ### 1. Divide & Conquer Strategy
 The Divide-And-Conquer paradigm uses the following strategy to solve problems.
@@ -27,7 +27,7 @@ Given an array A of n numbers
 
 ![Analysis]()
 
-# Program : 
+## Program : 
 // Attach the Program written in Java
 - Task - 1 : Write a simple Java program to perform sorting and check the correctness of the code.
 - Task - 2 : Randomize the code to accept the input size from the user and invoke random function to generate numbers in the array.
@@ -45,13 +45,13 @@ Given an array A of n numbers
 
 - Task - 5 : Plot the graph with N on the X-axis and T(n) on the Y-axis
   
-# Output :
+## Output :
 // Attach the Output
 
-# Conclusion : 
+## Conclusion : 
 * Understood the concept of Divide and Conquer Strategy upon Quick Sort
 * Was able to compute the Time Complexity of both the Sorting techniques based on Recurrence Relations
 * Implemented and tested the complexity of the Quick Sort
 
-# Online Resources
+## Online Resources
 * [Quick Sort](https://web.stanford.edu/class/archive/cs/cs161/cs161.1166/lectures/lecture5.pdf)
